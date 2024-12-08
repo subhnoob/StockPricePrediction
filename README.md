@@ -12,6 +12,7 @@ Install the following Python packages using `pip`:
 
 ```bash
 pip install praw pandas numpy scikit-learn yfinance nltk spacy
+```
 
 ## Download the Necessary NLP Packages
 
@@ -20,4 +21,5 @@ pip install praw pandas numpy scikit-learn yfinance nltk spacy
 import nltk
 nltk.download('stopwords')
 nltk.download('wordnet')
+```
 
