@@ -22,4 +22,9 @@ import nltk
 nltk.download('stopwords')
 nltk.download('wordnet')
 ```
+## Download the English Model for Spacy
 
+
+```bash
+python -m spacy download en_core_web_sm
+```
